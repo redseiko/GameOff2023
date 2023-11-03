@@ -1,0 +1,10 @@
+[*]
+
+guidelines = 120
+
+[*.{cs,vb,json,csproj,md}]
+
+tab_width = 2
+indent_size = 2
+
+end_of_line = lf
